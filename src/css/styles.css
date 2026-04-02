@@ -100,3 +100,46 @@ main section section h3{
 .videovinho {
     margin-left: 27%;
 }
+
+legend {
+    font-weight: 700;
+    font-size: x-large;
+    padding: 0 0.9rem;
+}
+
+textarea {
+    border-radius: 8px;
+    border: 2px solid #6e1b30;
+}
+
+input {
+    border-radius: 8px;
+    border: 2px solid #6e1b30;
+}
+
+button {
+    background-color: #6e1b30;
+    border-radius: 8px;
+    padding: 0.44rem;
+}
+
+#vinhocntt {
+    width: 100%;
+}
+
+hr {
+    border: 2px solid #6e1b30;
+}
+
+#bianca {
+    border-radius: 30px;
+    margin-bottom: 10px;
+}
+
+#contact {
+    border: 2px solid rgb(70, 25, 33);
+    border-radius: 5px;
+    padding: 1rem;
+    margin-left: 5rem;
+    margin-right: 5rem;
+}
