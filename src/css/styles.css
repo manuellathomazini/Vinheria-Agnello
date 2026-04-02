@@ -1,0 +1,28 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+
+body {
+    color: #6e1b30;
+}
+
+.logo {
+    width: 30rem;
+    height: auto;
+}
+
+.barranav {
+    color: #6e1b30;
+}
+
+header {
+    background-color: bisque;
+}
+
+.banner {
+    width: 100%;
+}
