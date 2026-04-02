@@ -8,6 +8,7 @@
 
 body {
     color: #6e1b30;
+    background-color: bisque;
 }
 
 .logo {
@@ -25,4 +26,44 @@ header {
 
 .banner {
     width: 100%;
+}
+
+.linki {
+    padding: 3%;
+    font-size:xx-large
+}
+
+#ofertas {
+    margin-left: 10rem;
+    margin-top: 5rem;
+}
+
+main section h1 {
+    font-size: 70px;
+}
+
+main section p {
+    padding-bottom:2rem;
+    padding-left: 2rem;
+}
+
+main section section a article img {
+    width: 80px;
+    margin-left: 3rem;
+    margin-top: 3rem;
+}
+
+main section section {
+    background-color: white;
+    border-radius: 80px;
+}
+
+main section section h3{
+    padding-left: 4rem;
+}
+
+.contato {
+    font-weight: 900;
+    font-size: 20px;
+    margin-left: 50px;
 }
