@@ -74,7 +74,7 @@ Manuella Sousa Thomazini - 573606
 
 🔗 Repositório GitHub: https://github.com/artur2774/Vinheria-Agnello
 
-🌍 GitHub Pages: https://artur2774.github.io/Vinheria-Agnello/
+🌍 GitHub Pages: https://manuellathomazini.github.io/Vinheria-Agnello/
 
 ✅ Considerações Finais:
 Este projeto teve como objetivo aplicar conceitos fundamentais de desenvolvimento web, incluindo estruturação HTML, estilização com CSS e organização de conteúdo, além de simular um cenário real de negócio com foco na experiência do usuário.
