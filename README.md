@@ -1,13 +1,13 @@
-🍷 Vinharia Agnello – Site Institucional
+🍷 Vinheria Agnello – Site Institucional
 📌 Sobre o Projeto
 
-Este projeto consiste no desenvolvimento de um site institucional para a Vinharia Agnello, uma empresa familiar com mais de 15 anos de atuação no mercado de vinhos, localizada em São Paulo.
+Este projeto consiste no desenvolvimento de um site institucional para a Vinheria Agnello, uma empresa familiar com mais de 15 anos de atuação no mercado de vinhos, localizada em São Paulo.
 
 A proposta do site surgiu da necessidade de adaptação ao cenário pós-pandemia, onde muitos clientes migraram para o ambiente digital. O desafio principal é criar uma experiência online que se aproxime do atendimento personalizado oferecido na loja física, onde especialistas ajudam os clientes a escolher o vinho ideal.
 
 🧠 Contexto do Negócio
 
-A Vinharia Agnello se destaca por:
+A Vinheria Agnello se destaca por:
 
 Atendimento especializado e consultivo
 Grande variedade de vinhos nacionais e internacionais
@@ -15,6 +15,7 @@ Cuidado com armazenamento e qualidade dos produtos
 Foco em clientes iniciantes e experientes no mundo dos vinhos
 
 O site busca traduzir essa experiência para o ambiente digital, facilitando a escolha de vinhos e oferecendo informações relevantes ao usuário.
+Além disso, o site conta com uma página de registro para gerenciamento de vinhos em estoque, um sistema básico para cadastro e análise de vinhos artesanais da Vinheira Agnello, mantendo a organização da empresa.
 
 🌐 Estrutura do Site
 
@@ -31,10 +32,13 @@ Explica os tipos de uvas de cada vinho e as melhores combinações
 conta a história e a tradição da vinharia
 [tipos.html]
 Imagens e preços dos três tipos de vinho disponíveis
+[cadastro.html]
+Gerenciamento dos vinhos em estoque
 
 🛠️ Tecnologias Utilizadas
 HTML5
 CSS3
+JavaScript
 
 📁 Estrutura de Pastas
 vinharia-agnello/
@@ -47,6 +51,7 @@ vinharia-agnello/
 │   ├── css/
 │   │   └── style.css
 │   ├── js/
+│   │   └── script.js
 │   └── pages/
 │       ├── historia.html
 │       ├── produtos.html
@@ -65,6 +70,7 @@ Uso de listas e tabelas
 Estilização com CSS (classes e IDs)
 Inclusão de vídeo (YouTube)
 Links internos e externos
+Sistema de registro e análise de vinhos com JS
 
 👥 Integrantes do Grupo
 Artur de Novazzi Maia - 572624
@@ -77,4 +83,4 @@ Manuella Sousa Thomazini - 573606
 🌍 GitHub Pages: https://manuellathomazini.github.io/Vinheria-Agnello/
 
 ✅ Considerações Finais:
-Este projeto teve como objetivo aplicar conceitos fundamentais de desenvolvimento web, incluindo estruturação HTML, estilização com CSS e organização de conteúdo, além de simular um cenário real de negócio com foco na experiência do usuário.
+Este projeto teve como objetivo aplicar conceitos fundamentais de desenvolvimento web, incluindo estruturação HTML, aplicação simples de JS, estilização com CSS e organização de conteúdo, além de simular um cenário real de negócio com foco na experiência do usuário.
