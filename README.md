@@ -40,6 +40,12 @@ HTML5
 CSS3
 JavaScript
 
+🌟 Efeitos Visuais
+Uso de hover para mudar a cor ao passar o cursor 
+Valid e invalid para validar o input de email 
+Selection para harmonizar a cor com o site quando o elemnto está selecionado
+Uso de FirstLetter para modificar a primeira letra dos parágrafos "sobre nós"
+
 📁 Estrutura de Pastas
 vinharia-agnello/
 │
